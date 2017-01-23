@@ -1,0 +1,49 @@
+<invoice>
+<id>1602150001</id>
+<date>15 de Febrero de 2016</date>
+<seller>
+  <name>John</name>
+  <first-surname>Doe</first-surname>
+  <second-surname>Martin</second-surname>
+  <nif>01234567T</nif>
+  <phone>601234567</phone>
+  <email>john.doe@example.com</email>
+  <info>
+    <address>Street View 18</address>
+    <post-code>08902</post-code>
+    <post-code>CA 221</post-code>
+    <town>Hospitalet</town>
+    <province>Barcelona</province>
+    <country>Spain</country>
+    <account>0123 4567 89 01 234567890</account>
+  </info>
+</seller>
+<customer>
+  <name>Private Customer S.L.</name>
+  <nif>B0123456789</nif>
+  <phone>9332112312</phone>
+  <email>customer@example.com</email>
+  <info>
+    <address>Place Freedom</address>
+    <post-code>08902</post-code>
+    <town>L'Hospitalet de Llobregat</town>
+    <province>Barcelona</province>
+    <country>España</country>
+  </info>
+</customer>
+<concept>
+Análisis, diseño y desarrollo de aplicaciones informáticas.
+</concept>
+<hours>
+46
+</hours>
+<priceperhour>
+20.00
+</priceperhour>
+<iva>
+18.00
+</iva>
+<irpf>
+15.00
+</irpf>
+</invoice>
