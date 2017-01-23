@@ -1,5 +1,5 @@
 # recipe-xml-xsl-fop
-Recipe XML-XSL-FOP is an example of generating an invoice with data from an XML file, an XSL template for rendering the data with FOP.
+Recipe XML-XSL-FOP is an example of rendering an invoice with an XSL template and with data from an XML file via FOP.
 
 The invoice PDF is generated from two files, one file containing the template (styles and calculations inline with the data) and another file with the data for the current invoice. 
 
